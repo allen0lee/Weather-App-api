@@ -1,6 +1,6 @@
 # Weather API
 
-This is a simple express API server to provide weather information. User can get daily greeting on the home page as well as modifying them. You can find a front end app using this api in [this repo.](https://github.com/superpower1/SinefaTechnicalAssessment2)
+This is a simple express API server to provide weather information. User can get daily greeting on the home page as well as modifying them. You can find a front end app using this api in [this repo.](https://github.com/allen0lee/Weather-App-React)
 
 ## Install
 1. Clone down this repo

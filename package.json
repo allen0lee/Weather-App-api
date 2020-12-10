@@ -1,5 +1,5 @@
 {
-  "name": "SinefaTechnicalAssessments",
+  "name": "Weather-App",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "NODE_ENV=test mocha --require babel-core/register --require babel-polyfill"
   },
   "keywords": [],
-  "author": "Haofu",
+  "author": "Alan",
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.26.0",

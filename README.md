@@ -19,5 +19,3 @@ verb | url pattern | description
 get | / | Home
 get | /api/weather/:location | Get current weather information
 get | /api/forecast/:location | Get weather forecast for 3 days
-get | /api/greetings | Get daily greeting
-post | greeting | Modify daily greeting
